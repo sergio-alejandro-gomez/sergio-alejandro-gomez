@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergio-alejandro-gomez
+- 👋 Hi, I’m @sergio-alejandro-gomez Sergio Alejandro Gómez.
 - 👀 I’m interested in the implementation of argumentation systems and Semantic Web applications.
 - 🌱 I’m currently teaching Data Structures at Universidad Nacional del Sur in Bahia Blanca, Argentina.
 - 📫 How to reach me? See my web page at http://cs.uns.edu.ar/~sag.
